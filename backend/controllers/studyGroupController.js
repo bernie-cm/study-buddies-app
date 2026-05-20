@@ -1,4 +1,4 @@
-const User = require('../models/StudyGroup');
+const StudyGroup = require('../models/StudyGroup');
 
 const getStudyGroups = async(req, res) => {
     try {
