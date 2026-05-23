@@ -1,10 +1,11 @@
 const mongoose = require('mongoose');
 
 const studyGroupSchema = new mongoose.Schema({
-    name: { type: mongoose.Schema.Types.ObjectId, ref: 'Name', required: true },
-    university: { type: mongoose.Schema.Types.ObjectId, ref: 'Name', required: true },
+    name: { type: String, required: true },
+    university: { type: String, required: true },
+    subject: { type: String, required: true },
     description: { type: String },
-    deadline: { type: Date },
+    createdBy: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
 });
 
-module.exports = mongoose.model('Task', taskSchema);
+module.exports = mongoose.model('StudyGroup', studyGroupSchema);
