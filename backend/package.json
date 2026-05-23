@@ -1,7 +1,7 @@
 {
-  "name": "task-manager-backend",
+  "name": "study-buddies-backend",
   "version": "1.0.0",
-  "description": "Backend for Task Manager App",
+  "description": "Backend for Study Buddies App",
   "main": "server.js",
   "scripts": {
     "test": "mocha",
