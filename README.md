@@ -1,6 +1,9 @@
 ## Project information
 
-Project setup instructions.
+### Project setup instructions.
+Clone the GitHub repository to your local environment
+`$ git clone https://github.com/bernie-cm/study-buddies-app.git`
+
 Public URL of your project.
 Provide a project-specific username and password if we need to access your dashboard.
 
