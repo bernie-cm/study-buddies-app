@@ -4,6 +4,7 @@ Study Buddies is designed to help university students manage their study groups,
 
 #### How to access the app
 **Public URL** http://3.27.136.168
+
 Use the following username and password of a fake test user
 - Email: `m.smith@example.com`
 - Password: `pass1234`
