@@ -1,3 +1,8 @@
+## Project information
+
+Project setup instructions.
+Public URL of your project.
+Provide a project-specific username and password if we need to access your dashboard.
 
 **Assessment 1.2 (Total Marks **20**)**
 
