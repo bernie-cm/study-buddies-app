@@ -1,8 +1,33 @@
 ## Project information
+### Overview
+Study Buddies is designed to help university students manage their study groups, or join others. It provides Create, Read, Update, and Delete operations for users to manage study groups.
+
+#### How to access the app
+**Public URL** http://3.27.136.168
+
+#### Technology
+- React
+- JavaScript
+- Git
+- AWS (EC2)
+- MongoDB
+
+### Getting started
+
+
+#### Initial configuration
+
+### Developing
+Clone the GitHub repository to your local environment
+
+`$ git clone https://github.com/bernie-cm/study-buddies-app.git`
+
+### Features
+
+### Links
 
 ### Project setup instructions.
-Clone the GitHub repository to your local environment
-`$ git clone https://github.com/bernie-cm/study-buddies-app.git`
+
 
 Public URL of your project.
 Provide a project-specific username and password if we need to access your dashboard.
